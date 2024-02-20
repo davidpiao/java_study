@@ -1,4 +1,4 @@
-package DS;
+package DS.Day1;
 
 import java.util.Scanner;
 public class P11720_숫자의합 {
