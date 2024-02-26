@@ -1,4 +1,4 @@
-package DS.Day5;
+package Sort.Day5;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package DS.Day4;
+package Sort.Day4;
 
 import java.io.BufferedReader;
 import java.io.IOException;
